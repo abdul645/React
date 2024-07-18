@@ -1,0 +1,6 @@
+1. for images
+-  https://www.pexels.com/
+
+
+2. We can components from here 
+-  https://www.devui.io/components 
